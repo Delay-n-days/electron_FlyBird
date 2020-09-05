@@ -9,4 +9,4 @@
 
 # cnpm安装electron
 
->'cnpm install electron -g
+> `cnpm install electron -g`
